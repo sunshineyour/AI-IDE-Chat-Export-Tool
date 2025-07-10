@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "paths": {
+    "cursor": null,
+    "augment": null,
+    "cursor-augment": null,
+    "idea-augment": null,
+    "pycharm-augment": null
+  },
+  "created_at": "2025-07-10T20:38:39.341571",
+  "updated_at": "2025-07-10T20:39:42.460660"
+}
